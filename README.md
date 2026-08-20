@@ -35,6 +35,10 @@ This project presents an automated system for counting the number of white pills
 15. References
 
 ---
+## To READ the full Content :
+*For a full walkthrough and detailed explanation, visit the [Automated Pill Counting Blog Post](https://haneenthecreate.blogspot.com/2026/08/automated-pill-counting-using-digital.html).*
+
+
 
 ## 1. Introduction
 Digital Image Processing (DIP) uses computer algorithms to manipulate and analyze digital images for industrial automation, quality inspection, and medical applications. Accurately counting tablets or capsules during packaging and quality assurance is critical, and manual methods are slow and prone to errors. This project automates white pill counting using MATLAB's Image Processing Toolbox.
