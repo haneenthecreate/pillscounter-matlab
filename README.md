@@ -8,13 +8,13 @@ This project presents an automated system for counting the number of white pills
 ---
 
 ## Screenshots & Visual Results
-* **`screenshot1.png`**: Displays the raw, unaltered input image of the white pills captured against a contrasting background.  
+* : Displays the raw, unaltered input image of the white pills captured against a contrasting background.  
   ![Original Image](screenshot1.png)
 
-* **`screenshot2.png`**: Shows the intermediate processing stages, including the grayscale conversion, filtered outputs, and Otsu's binary mask.  
+* : Shows the intermediate processing stages, including the grayscale conversion, filtered outputs, and Otsu's binary mask.  
   ![Processing Stages](screenshot2.png)
 
-* **`resultshot.png`**: Demonstrates the final output featuring overlaid bounding boxes and sequential numeric labels over each identified pill, along with the total count displayed in the title.  
+* : Demonstrates the final output featuring overlaid bounding boxes and sequential numeric labels over each identified pill, along with the total count displayed in the title.  
   ![Final Results](resultshot.png)
 
 ---
