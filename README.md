@@ -20,21 +20,21 @@ This project presents an automated system for counting the number of white pills
 ---
 
 ## Table of Contents
-1. Introduction[cite: 1]
-2. Objectives[cite: 1]
-3. Literature Background / Theoretical Concepts[cite: 1]
-4. System Requirements[cite: 1]
-5. Proposed Methodology[cite: 1]
-6. Algorithm and Flowchart[cite: 1]
-7. MATLAB Implementation (Code)[cite: 1]
-8. Detailed Explanation of Code Modules[cite: 1]
-9. Results and Discussion[cite: 1]
-10. Advantages[cite: 1]
-11. Limitations[cite: 1]
-12. Applications[cite: 1]
-13. Future Scope[cite: 1]
-14. Conclusion[cite: 1]
-15. References[cite: 1]
+1. Introduction
+2. Objectives
+3. Literature Background / Theoretical Concepts
+4. System Requirements
+5. Proposed Methodology[
+6. Algorithm and Flowchart
+7. MATLAB Implementation (Code)
+8. Detailed Explanation of Code Modules
+9. Results and Discussion
+10. Advantages
+11. Limitations
+12. Applications
+13. Future Scope
+14. Conclusion
+15. References
 
 ---
 
