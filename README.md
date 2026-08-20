@@ -1,6 +1,6 @@
 # pillscounter-matlab
 Automated Pill Counting Using Digital Image Processing in MATLAB
-# Automated White Pill Counting Using Digital Image Processing in MATLAB
+# Automated  Pill Counting Using Digital Image Processing in MATLAB
 
 ## Project Overview
 This project presents an automated system for counting the number of white pills present in a digital image using fundamental digital image processing techniques implemented in MATLAB[cite: 1]. The system successfully eliminates manual counting errors in pharmaceutical packaging, quality control, and inventory management by leveraging a structured pipeline of filtering, thresholding, and morphological analysis[cite: 1].
